@@ -1,3 +1,1 @@
-fun main() {
-    println"sss"
-}
+fun main(){}

@@ -1,6 +1,7 @@
 fun main(args: Array<String>) {
 
     
-    println("print your name")
-
+    println("my name is Mubarak")
+// my name is mubarak
+    println("mubarak jjjj")
 }
